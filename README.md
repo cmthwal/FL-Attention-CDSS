@@ -1,7 +1,23 @@
 # FL-Attention-CDSS
 ## Attention on Personalized Clinical Decision Support System: Federated Learning Approach
 
-Dataset: https://github.com/Aniruddha-Tapas/Predicting-Diseases-From-Symptoms/tree/master/Manual-Data
+- System Overview
+
+  We present the design and implementation of an edge-based personalized clinical decision support system that integrates federated learning and AI technologies for enhanced medical diagnosis.
+
+- Key Features:
+
+  Designed to leverage edge devices for personalized clinical decision support.
+
+  Incorporates the attention mechanism within a sequence-to-sequence network for medical diagnosis on edge devices.
+
+  Exploits the federated learning framework to collaboratively train personalized models in a distributed manner, on datasets with non-IID symptom-disease relationships.
+
+  Employs a centralized global model to aggregate gradients from personalized models, capturing shared knowledge while preserving privacy.
+
+  Designed with adaptability in mind, allowing models to handle new symptoms and diseases without requiring complete re-training.
+
+- Original Dataset: https://github.com/Aniruddha-Tapas/Predicting-Diseases-From-Symptoms/tree/master/Manual-Data
 
 ## Citation
 If you find this code helpful in your work, please consider citing our paper. Your support is greatly appreciated!
