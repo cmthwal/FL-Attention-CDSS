@@ -1,6 +1,8 @@
 # FL-Attention-CDSS
 ## Attention on Personalized Clinical Decision Support System: Federated Learning Approach
 
+* Paper: https://ieeexplore.ieee.org/document/9373264 OR https://arxiv.org/abs/2401.11736
+
 - System Overview
 
   We present the design and implementation of an edge-based personalized clinical decision support system that integrates federated learning and AI technologies for enhanced medical diagnosis.
